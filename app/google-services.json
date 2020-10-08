@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075666761382",
+    "firebase_url": "https://withlogin-c1976.firebaseio.com",
+    "project_id": "withlogin-c1976",
+    "storage_bucket": "withlogin-c1976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075666761382:android:f7c260a8d5798eff4b6667",
+        "android_client_info": {
+          "package_name": "com.jayraja.googlewithlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075666761382-52gd09jtqb0ada39aon16n7bvv1q0ioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoT_8k2GILN13YLyw9T6PuKELXOr-Bns4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075666761382-52gd09jtqb0ada39aon16n7bvv1q0ioq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
